@@ -26,11 +26,11 @@ lista = [1,2,3,4,5,6]
 
 # Imprimiendo las Variables
 
-print(mensaje)
-print("El año es", anio)
-print("El valor de pi es:", pi)
-print("Soy un robot: ", es_robot)
-print("Lista de numeros: ", lista)
+print(mensaje, type(mensaje))
+print("El año es", anio, type(anio))
+print("El valor de pi es:", pi, type(pi))
+print("Soy un robot: ", es_robot, type(es_robot))
+print("Lista de numeros: ", lista, type(lista))
 ```
 
 ## Tipo de datos en Python
@@ -56,9 +56,9 @@ python variables.py
 
 ## Resultado Esperado
 ```
-Bienvenido a mi ruta de aprendizaje en python
-El año es 2024
-El valor de pi es: 3.1416
-Soy un robot:  False
-Lista de numeros:  [1, 2, 3, 4, 5, 6]
+Bienvenido a mi ruta de aprendizaje en python <class 'str'>
+El año es 2024 <class 'int'>
+El valor de pi es: 3.1416 <class 'float'>
+Soy un robot:  False <class 'bool'>
+Lista de numeros:  [1, 2, 3, 4, 5, 6] <class 'list'>
 ```

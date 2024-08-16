@@ -15,8 +15,8 @@ lista = [1,2,3,4,5,6]
 
 # Imprimiendo las Variables
 
-print(mensaje)
-print("El año es", anio)
-print("El valor de pi es:", pi)
-print("Soy un robot: ", es_robot)
-print("Lista de numeros: ", lista)
+print(mensaje, type(mensaje))
+print("El año es", anio, type(anio))
+print("El valor de pi es:", pi, type(pi))
+print("Soy un robot: ", es_robot, type(es_robot))
+print("Lista de numeros: ", lista, type(lista))
