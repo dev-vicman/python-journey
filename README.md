@@ -29,5 +29,9 @@ Puedes clonar el repositorio y ejecutar los ejemplos directamente en tu entorno 
 ```bash
 git clone https://github.com/dev-vicman/python-journey.git
 ```
+Estare realizando el reto de **30 Days Of Python** si quieres estar al pendiente de mi progreso, te dejo el link a mi repositorio:
+**[dev-vicman / 30-Days-Of-Python](https://github.com/dev-vicman/30-Days-Of-Python)**
+
+O si quieres  te dejo el link al repositorio original para que puedas estudiar y participar tambien: **[Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)**
 
 ¡Gracias por pasar por aquí! Este es solo el comienzo, y estoy emocionado de ver a dónde me llevará este viaje en Python 🐍. ¡Espero que también te sea útil a ti! 😊
