@@ -33,3 +33,12 @@ print(frutas)
 manzana
 ['manzana', 'pera', 'naranja']
 ```
+
+## Tuplas
+Las tuplas son similares a las listas, pero son inmutables. Esto significa que una vez que se crean, no se pueden modificar.
+
+### Ejemplo de tuplas
+```python
+# Definicion de una tupla
+
+```
