@@ -4,14 +4,14 @@
 
 El primer programa que se suele escribir al empezar con un lenguaje de programacion, es el famoso "Hola Mundo".
 
-Aqui les dejo mi "Hola Mundo", en python se utiliza la funcion nativa del lenguaje **print()**.
+Aqui les dejo mi version del "Hola Mundo", en python se utiliza la funcion nativa del lenguaje **print()** para imprimir mensajes por consola.
 
 ## Codigo
 
 Para imprimir el mensaje utilice el siguiente codigo:
 
 ``` Python
-print("Hello World")
+print("Holaaa Muuundo")
 ```
 ## Como ejecutar el programa
 
@@ -34,6 +34,6 @@ python hello_world.py
 Al ejecutar el programa deberias visualizar el siguiente mensaje en la consola.
 
 ```plaintext
-Hello World
+Holaaa Muuundo
 ```
 
