@@ -13,7 +13,7 @@ Este ejercicio cuenta las palabras que contiene una cadena de texto dada.
 - Métodos de cadenas: `split()`, `lower()`
 - Uso de diccionarios para conteo
 
-**Archivo:** `contador_de_palabras.py`
+[**Archivo:** `contador_de_palabras.py`](contador_de_palabras.py)
 
 ### 2. Verificación de Palíndromos
 **Descripción:**  
@@ -24,7 +24,7 @@ Este ejercicio verifica si una cadena es un palíndromo, es decir, si se lee igu
 - Manipulación de cadenas con `replace()`, `lower()`
 - Uso de slicing: `[::-1]`
 
-**Archivo:** `verificacion_de_palindromos.py`
+[**Archivo:** `verificacion_de_palindromos.py`](verificacion_de_palindromos.py)
 
 ### 3. Extracción de Subcadenas
 **Descripción:**  
