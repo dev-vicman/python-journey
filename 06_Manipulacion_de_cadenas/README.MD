@@ -41,5 +41,5 @@ Este ejercicio extrae todas las subcadenas que comienzan y terminan con una voca
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   https://github.com/dev-vicman/python-journey.git
+   https://github.com/vicman-182/python-journey.git
    ```

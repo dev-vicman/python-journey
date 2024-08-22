@@ -1,6 +1,6 @@
 # Python Journey 🚀
 
-¡Bienvenido a mi viaje de aprendizaje en Python! Este repositorio documenta mi progreso a medida que exploro y domino los conceptos fundamentales y avanzados de Python. Desde los primeros pasos con "Hola Mundo" hasta técnicas más avanzadas, este repositorio es tanto un registro de mi progreso como una guía para otros que quieran aprender Python desde cero.
+¡Bienvenido a mi viaje de aprendizaje en Python! Este repositorio documenta mi progreso a medida que exploro y domino los conceptos fundamentales y avanzados. Desde los primeros pasos con "Hola Mundo" hasta técnicas más avanzadas, este repositorio es tanto un registro de mi progreso como una guía para otros que quieran aprender Python desde cero.
 
 ## Estructura del Repositorio 📂
 
@@ -11,7 +11,8 @@ El repositorio está organizado en carpetas, cada una representando un tema o co
 3. [**03_Control_de_Flujo**](./03_Control_de_Flujo/README.MD) - Condicionales y bucles, controlando el flujo de tu programa.
 4. [**04_Funciones**](./04_Funciones/README.MD) - Creación y uso de funciones para modularizar el código.
 5. [**05_Estructuras_de_Datos**](./05_Estructuras_de_Datos/README.MD) - Trabajando con listas, tuplas, diccionarios, y más.
-6. **...** - Y más carpetas que cubrirán temas avanzados en el futuro.
+6. [**06_Manipulacion_de_cadenas**](./06_Manipulacion_de_cadenas/README.MD) - Realizando algunos ejercicios practicos con cadenas de texto
+7. **...** - Y más carpetas que cubrirán temas avanzados en el futuro.
 
 ## Cómo Usar Este Repositorio 🛠️
 
@@ -27,10 +28,10 @@ Cada carpeta contiene ejemplos de código, ejercicios prácticos y un archivo `R
 Puedes clonar el repositorio y ejecutar los ejemplos directamente en tu entorno local. Usa el siguiente comando para clonar el repositorio:
 
 ```bash
-git clone https://github.com/dev-vicman/python-journey.git
+git clone https://github.com/vicman-182/python-journey.git
 ```
 Estare realizando el reto de **30 Days Of Python** si quieres estar al pendiente de mi progreso, te dejo el link a mi repositorio:
-**[dev-vicman / 30-Days-Of-Python](https://github.com/dev-vicman/30-Days-Of-Python)**
+**[vicman-182 / 30-Days-Of-Python](https://github.com/vicman-182/30-Days-Of-Python)**
 
 O si quieres  te dejo el link al repositorio original para que puedas estudiar y participar tambien: **[Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)**
 
