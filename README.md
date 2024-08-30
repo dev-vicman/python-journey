@@ -1,6 +1,6 @@
 # Python Journey 🚀
 
-¡Bienvenido a mi viaje de aprendizaje en Python! Este repositorio documenta mi progreso a medida que exploro y domino los conceptos fundamentales y avanzados. Desde los primeros pasos con "Hola Mundo" hasta técnicas más avanzadas, este repositorio es tanto un registro de mi progreso como una guía para otros que quieran aprender Python desde cero.
+¡Bienvenido a mi viaje de aprendizaje en Python! Este repositorio documenta mi progreso a medida que exploro y domino los conceptos fundamentales y avanzados. Desde los primeros pasos con "Hola Mundo", pasando por la estructuras de datos, condicionales y otras cosas que debo aprender en este lenguaje. Este repositorio es tanto un registro de mi evolucion como desarrollador como una guía para otros que quieran aprender Python desde cero.
 
 ## Estructura del Repositorio 📂
 
