@@ -51,3 +51,11 @@ print(numero_mayor_10(23))
 multiples_operaciones = lambda numero_1, numero_2: (numero_1 + numero_2 **2) - 3
 
 print(multiples_operaciones(2,2))
+
+# Estructuras de control y ciclos dentro de las funciones lambda.
+# Vamos a enfocarnos en cómo las estructuras de control y los iteradores se manejan dentro de las funciones lambda.
+
+### Condicional Simple
+# Escribe una función lambda que tome un número y devuelva "Positivo" si es mayor que 0, "Negativo" si es menor que 0.
+
+es_positivo_negativo = lambda numero: 'Positivo' if numero > 0 else 'Negativo'
