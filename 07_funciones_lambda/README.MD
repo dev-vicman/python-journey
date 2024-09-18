@@ -104,10 +104,3 @@ print(multiples_operaciones(2,2))
 ```
 ##### Print Output:
     3
-
-## Estructuras de control y ciclos dentro de las funciones lambda.
-Vamos a enfocarnos en cómo las estructuras de control y los iteradores se manejan dentro de las funciones lambda.
-
-### Condicional Simple
-Escribe una función lambda que tome un número y devuelva "Positivo" si es mayor que 0, "Negativo" si es menor que 0, o "Cero" si es igual a 0.
-
