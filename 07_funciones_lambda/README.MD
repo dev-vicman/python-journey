@@ -111,5 +111,3 @@ Vamos a enfocarnos en cómo las estructuras de control y los iteradores se manej
 ### Condicional Simple
 Escribe una función lambda que tome un número y devuelva "Positivo" si es mayor que 0, "Negativo" si es menor que 0, o "Cero" si es igual a 0.
 
-```python
-es_positivo_negativo = lambda
