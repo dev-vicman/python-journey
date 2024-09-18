@@ -12,7 +12,8 @@ El repositorio está organizado en carpetas, cada una representando un tema o co
 4. [**04_Funciones**](./04_Funciones/README.MD) - Creación y uso de funciones para modularizar el código.
 5. [**05_Estructuras_de_Datos**](./05_Estructuras_de_Datos/README.MD) - Trabajando con listas, tuplas, diccionarios, y más.
 6. [**06_Manipulacion_de_cadenas**](./06_Manipulacion_de_cadenas/README.MD) - Realizando algunos ejercicios practicos con cadenas de texto
-7. **...** - Y más carpetas que cubrirán temas avanzados en el futuro.
+7. [**07_funciones_lambda**](./07_funciones_lambda/README.MD) - Comprendiendo la sintaxis y el uso de las funciones lambda.
+8. **...** - Y más carpetas que cubrirán temas avanzados en el futuro.
 
 ## Cómo Usar Este Repositorio 🛠️
 
